@@ -3,14 +3,20 @@
 body{
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
- .card-body{
-    font-size: 0.9rem;
-    letter-spacing: 0.02rem;
- }
- .card-title{
-    font-size:x-large;
-    font-family:Verdana, Geneva, Tahoma, sans-serif
- }
- h6{
-    font-family: 'Ubuntu';
- }
+.card-body{
+   font-size: 0.9rem;
+   letter-spacing: 0.02rem;
+}
+.card-title{
+   font-size:x-large;
+   font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+h6{
+   font-family: 'Ubuntu';
+}
+.card{
+    border:1px solid green;
+}
+.card-head{
+    border:2px solid grey;
+}
